@@ -1,2 +1,4 @@
-# NEXUS-NUK3R-V1
-OP Nexus Nuker
+# NEXUS NUK3R V1 SHOULD NOT BE DOWNLOADED FROM ANYWHERE ELSE. WE RESPECT EVERYONES PRIVACY AND SAFETY. PLEASE BE CAREFUL AND REPORT WEBSITES IF THEY HAVE THIS NUKER.
+# THIS TOOL IS FOR 'EDUCATIONAL PURPOSES ONLY' AND SHOULD NOT BE USED IN ANY HARMFUL WAY.
+
+Nexus Nuk3r is a very good discord nuk3r that has options, e. g. Create Servers, Discord Token Login, Token Info Puller, Token to Password, Virus Maker and much more.
